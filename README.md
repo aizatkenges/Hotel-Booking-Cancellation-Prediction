@@ -45,7 +45,4 @@ These analyses describe historical patterns.
 
 Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, SciPy, statsmodels, exploratory data analysis, sampling, feature engineering, feature selection, PCA, classification, cross-validation, hyperparameter tuning, model evaluation, K-means, hierarchical clustering, DBSCAN, ensemble learning.
 
-## Run the notebooks
-
-Run Jupyter from the repository root so the notebooks can find `hotel_bookings.csv`:
 
